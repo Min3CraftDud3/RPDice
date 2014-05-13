@@ -1,0 +1,9 @@
+name: RPDice
+main: com.SinfulPixel.RPDice.RPDice
+version: 1.0
+description: A Simple Dice Rolling Plugin for RP
+author: Min3CraftDud3
+website: http://www.SinfulPixel.com
+commands:
+  roll:
+    description: "Rolls a specific dice a specified amount of times."
